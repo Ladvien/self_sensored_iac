@@ -1,0 +1,3 @@
+# Add region specific variables here.
+region: us-west-2
+centos_ami: ami-0bc06212a56393ee1
